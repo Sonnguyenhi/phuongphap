@@ -49,4 +49,5 @@ int main(){
 	xuat(a, n);
 	cout << "Cac so le la = ";
 	lietke(a, n);
+	return 0;
 }
